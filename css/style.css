@@ -807,6 +807,12 @@ h1, h2, h3, h4, h5, h6, figure {
   list-style: none;
   position: relative;
 }
+.fh5co-contact-info ul .name {
+  padding: 0 0 0 50px;
+  margin: 0 0 30px 0;
+  /* list-style: none; */
+  position: relative;
+}
 .fh5co-contact-info ul li:before {
   color: #F14E95;
   position: absolute;
